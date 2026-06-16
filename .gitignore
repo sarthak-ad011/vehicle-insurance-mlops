@@ -218,7 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 concept.txt
-reference.txt
+refrence.txt
 logs/
 mongodb.ipynb
 artifact
